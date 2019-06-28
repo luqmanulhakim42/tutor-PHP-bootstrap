@@ -1,2 +1,5 @@
-ini yang ngedit juanTest VCS
-ini yang ngedit juancoba conflictkdjadadodadm
+ini yang ngedit juanTest 
+VCS
+ini yang ngedit juancoba 
+conflict
+kdjadadodadm
