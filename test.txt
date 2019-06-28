@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Test VCS
 ini yang ngedit najwah
 Test VCSini yang ngedit juan
 coba conflict
 loikijuuhytgytgt
+=======
+ini yang ngedit juanTest 
+VCS
+ini yang ngedit juan
+coba conflict
+kdjadadodadm
+>>>>>>> a14671ce53cd7a351b19616e7ca4342ddeaf112f
