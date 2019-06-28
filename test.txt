@@ -1,3 +1,2 @@
-Test VCS
-ini yang ngedit juan
-kdjadadodadm
+ini yang ngedit juanTest VCS
+ini yang ngedit juancoba conflictkdjadadodadm
